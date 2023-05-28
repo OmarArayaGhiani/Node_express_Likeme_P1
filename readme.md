@@ -13,6 +13,6 @@ Instalar dependencias en Like_Me_(Backend):
 
 Ejecutar primero Backend con:
     node Like_Me_\(Backend\)/Backend/Server (Se ejecutará en host 3000)
-Ejecutar segundo Client (aplicación React):
+Ejecutar segundo Client (desde el directorio de la aplicación React):
     npm run start 
     Aceptar el cambio de host con tecla Y
